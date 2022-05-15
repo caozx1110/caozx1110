@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center"> 
-  <img src="https://img.shields.io/badge/C.svg" /> 
-  <img src="https://img.shields.io/badge/C++.svg" /> 
+  <img src="https://img.shields.io/badge/C-blue.svg" /> 
+  <img src="https://img.shields.io/badge/C++-red.svg" /> 
   <img src="https://img.shields.io/badge/Python.svg" /> 
   <img src="https://visitor-badge.glitch.me/badge?page_id=caozx1110" /> 
 </div>

@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=caozx1110&theme=onedark" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caozx1110&theme=onedark" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=caozx1110&hide_title=true&hide_border=true&show_icons=trueline_height=21&icon_color=000&theme=onedark" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caozx1110&hide_title=true&hide_border=true&layout=compact&langs_count=6&icon_color=fff&theme=onedark" />
 </div>
 <br>
 

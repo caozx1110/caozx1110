@@ -21,9 +21,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/skill-Python-green.svg" /> 
   <img src="https://img.shields.io/badge/skill-Linux-yellow.svg" /> 
   <img src="https://img.shields.io/badge/skill-ROS-blue.svg" /> 
-  
+  <img src="https://img.shields.io/badge/skill-STM32-red.svg" /> 
   <img src="https://img.shields.io/badge/learning-Java-green.svg" /> 
-  
+  <img src="https://img.shields.io/badge/learning-Android-yellow.svg" /> 
   <img src="https://visitor-badge.glitch.me/badge?page_id=caozx1110" /> 
 </div>
 <br>

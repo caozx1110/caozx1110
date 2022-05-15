@@ -22,4 +22,19 @@ Here are some ideas to get you started:
 </div>
 <br>
 
+<!-- 比较好的开源项目卡片 -->
+<div align="center">
+<a href="https://github.com/caozx1110/NeedForSpeedAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/caozx1110/Carbon">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+</div>
+
+<div align="center">
+<a href="https://github.com/caozx1110/ETDCar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/caozx1110/RobotWriteWord">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+</div>
+
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=caozx1110" /> </div>

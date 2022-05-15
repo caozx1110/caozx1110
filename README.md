@@ -38,7 +38,9 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center"> 
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
+  <img src="https://img.shields.io/badge/C.svg" /> 
+  <img src="https://img.shields.io/badge/C++.svg" /> 
+  <img src="https://img.shields.io/badge/Python.svg" /> 
   <img src="https://visitor-badge.glitch.me/badge?page_id=caozx1110" /> 
 </div>
 

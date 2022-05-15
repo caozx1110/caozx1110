@@ -37,5 +37,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=caozx1110&repo=RobotWriteWord&theme=dark&bg_color=0d1117" /></a>
 </div>
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=caozx1110" /> </div>
+<div align="center"> 
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=caozx1110" /> 
+</div>
 

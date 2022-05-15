@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=caozx1110&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=dark" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caozx1110&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dark" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=caozx1110&hide_title=true&hide_border=true&show_icons=trueline_height=21" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caozx1110&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 </div>
 <br>
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <div align="center"> 
   <img src="https://img.shields.io/badge/C-blue.svg" /> 
   <img src="https://img.shields.io/badge/C++-red.svg" /> 
-  <img src="https://img.shields.io/badge/Python.svg" /> 
+  <img src="https://img.shields.io/badge/Python-green.svg" /> 
   <img src="https://visitor-badge.glitch.me/badge?page_id=caozx1110" /> 
 </div>
 

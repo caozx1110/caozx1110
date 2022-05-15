@@ -16,9 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"> 
-  <img src="https://img.shields.io/badge/C-blue.svg" /> 
-  <img src="https://img.shields.io/badge/C++-red.svg" /> 
-  <img src="https://img.shields.io/badge/Python-green.svg" /> 
+  <img src="https://img.shields.io/badge/skill-C-blue.svg" /> 
+  <img src="https://img.shields.io/badge/skill-C++-red.svg" /> 
+  <img src="https://img.shields.io/badge/skill-Python-green.svg" /> 
+  <img src="https://img.shields.io/badge/skill-Linux-yellow.svg" /> 
+  <img src="https://img.shields.io/badge/skill-ROS-blue.svg" /> 
+  
+  <img src="https://img.shields.io/badge/learning-Java-green.svg" /> 
+  
   <img src="https://visitor-badge.glitch.me/badge?page_id=caozx1110" /> 
 </div>
 <br>

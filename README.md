@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"> 
-  <img src="https://img.shields.io/badge/skilled-C-blue.svg" /> 
-  <img src="https://img.shields.io/badge/skilled-C++-red.svg" /> 
-  <img src="https://img.shields.io/badge/skilled-Python-green.svg" /> 
-  <img src="https://img.shields.io/badge/skilled-Linux-yellow.svg" /> 
-  <img src="https://img.shields.io/badge/skilled-ROS-blue.svg" /> 
-  <img src="https://img.shields.io/badge/skilled-STM32-red.svg" /> 
-  <img src="https://img.shields.io/badge/learning-Java-green.svg" /> 
-  <img src="https://img.shields.io/badge/learning-Android-yellow.svg" /> 
+  <img src="https://img.shields.io/badge/learning-C-blue.svg" /> 
+  <img src="https://img.shields.io/badge/learning-C++-red.svg" /> 
+  <img src="https://img.shields.io/badge/learning-Python-green.svg" /> 
+<!--   <img src="https://img.shields.io/badge/skilled-Linux-yellow.svg" />  -->
+  <img src="https://img.shields.io/badge/learning-ROS-blue.svg" /> 
+  <img src="https://img.shields.io/badge/learning-STM32-red.svg" /> 
+<!--   <img src="https://img.shields.io/badge/learning-Java-green.svg" />  -->
+<!--   <img src="https://img.shields.io/badge/learning-Android-yellow.svg" />  -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=caozx1110" /> 
 </div>
 <br>
